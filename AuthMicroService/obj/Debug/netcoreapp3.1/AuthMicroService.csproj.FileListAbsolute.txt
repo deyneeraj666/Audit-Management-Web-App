@@ -1,0 +1,208 @@
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.csprojAssemblyReference.cache
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.AssemblyInfoInputs.cache
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.AssemblyInfo.cs
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.csproj.CoreCompileInputs.cache
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.MvcApplicationPartsAssemblyInfo.cache
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.exe
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.deps.json
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.runtimeconfig.json
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.runtimeconfig.dev.json
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.pdb
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthMicroService.StaticWebAssets.Manifest.cache
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthMicroService.StaticWebAssets.xml
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthMicroService.styles.css
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.RazorTargetAssemblyInfo.cache
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.csproj.CopyComplete
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.dll
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.pdb
+E:\Microservice\Projects\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.genruntimeconfig.cache
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\log4net.config
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Microservice\Projects\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.exe
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.deps.json
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.runtimeconfig.json
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.runtimeconfig.dev.json
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.AssemblyInfoInputs.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.AssemblyInfo.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.csproj.CoreCompileInputs.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthMicroService.StaticWebAssets.Manifest.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthMicroService.StaticWebAssets.xml
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthMicroService.styles.css
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.csproj.CopyComplete
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.genruntimeconfig.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.csprojAssemblyReference.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.exe
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.deps.json
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.runtimeconfig.json
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.runtimeconfig.dev.json
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\AuthMicroService.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.csprojAssemblyReference.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.AssemblyInfoInputs.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.AssemblyInfo.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.csproj.CoreCompileInputs.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthMicroService.StaticWebAssets.Manifest.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthMicroService.StaticWebAssets.xml
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthMicroService.styles.css
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.csproj.CopyComplete
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuthMicroService\obj\Debug\netcoreapp3.1\AuthMicroService.genruntimeconfig.cache

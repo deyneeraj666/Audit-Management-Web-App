@@ -1,0 +1,515 @@
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.exe
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.deps.json
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.runtimeconfig.json
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.runtimeconfig.dev.json
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.pdb
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.Views.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.Views.pdb
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.csprojAssemblyReference.cache
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.AssemblyInfoInputs.cache
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.AssemblyInfo.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.csproj.CoreCompileInputs.cache
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.MvcApplicationPartsAssemblyInfo.cache
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorAssemblyInfo.cache
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorAssemblyInfo.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\AuditManagementPortal.StaticWebAssets.Manifest.cache
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\AuditManagementPortal.StaticWebAssets.xml
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuditManagementPortal.styles.css
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.TagHelpers.input.cache
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.TagHelpers.output.cache
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorCoreGenerate.cache
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorTargetAssemblyInfo.cache
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorTargetAssemblyInfo.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.Views.pdb
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.csproj.CopyComplete
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.dll
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.pdb
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.genruntimeconfig.cache
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\Login.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\Home.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\CheckList.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\AuditForm.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\Internal.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\AuditResponse.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\SOX.cshtml.g.cs
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Microservice\Projects\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.exe
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.deps.json
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.runtimeconfig.json
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.runtimeconfig.dev.json
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.Views.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.Views.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.csprojAssemblyReference.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.AssemblyInfoInputs.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.AssemblyInfo.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.csproj.CoreCompileInputs.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorAssemblyInfo.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorAssemblyInfo.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\AuditManagementPortal.StaticWebAssets.Manifest.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\AuditManagementPortal.StaticWebAssets.xml
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuditManagementPortal.styles.css
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.TagHelpers.input.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.TagHelpers.output.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorCoreGenerate.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\AuditForm.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\AuditResponse.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\CheckList.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\Home.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\Internal.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\Login.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\SOX.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorTargetAssemblyInfo.cache
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorTargetAssemblyInfo.cs
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.Views.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.csproj.CopyComplete
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.dll
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.pdb
+C:\Users\Rohan Pandita\Desktop\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.genruntimeconfig.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.exe
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.deps.json
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.runtimeconfig.json
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.runtimeconfig.dev.json
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.Views.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\AuditManagementPortal.Views.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.csprojAssemblyReference.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.AssemblyInfoInputs.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.AssemblyInfo.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.csproj.CoreCompileInputs.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorAssemblyInfo.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorAssemblyInfo.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\AuditManagementPortal.StaticWebAssets.Manifest.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\staticwebassets\AuditManagementPortal.StaticWebAssets.xml
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuditManagementPortal.styles.css
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.TagHelpers.input.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.TagHelpers.output.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorCoreGenerate.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\AuditForm.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\AuditResponse.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\CheckList.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\Home.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\Internal.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\Login.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\AuditPortal\SOX.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorTargetAssemblyInfo.cache
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.RazorTargetAssemblyInfo.cs
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.Views.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.csproj.CopyComplete
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.dll
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.pdb
+C:\Users\Neeraj\Documents\NewFolder\NewFolder\AuditManagementPortal\obj\Debug\netcoreapp3.1\AuditManagementPortal.genruntimeconfig.cache
