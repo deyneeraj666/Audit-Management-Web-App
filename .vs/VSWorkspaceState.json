@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AuditManagementPortal",
+    "\\AuditManagementPortal\\Controllers",
+    "\\AuditManagementPortal\\Models",
+    "\\AuditManagementPortal\\Repositories",
+    "\\AuditManagementPortal\\Services"
+  ],
+  "SelectedNode": "\\AuditSeverityMicroservice",
+  "PreviewInSolutionExplorer": false
+}
